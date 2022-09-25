@@ -19,3 +19,11 @@ I learned a lot of things doing this assignment. I read up about pickle files an
 
 # Assignment 2
 Link: https://github.com/alarikav/4395/blob/main/assignment2/portfolio_2_alarikavoora.pdf
+
+# Guessing Game 
+Link: https://github.com/alarikav/4395/blob/main/guessing%20game/assignment3_axv180035.py
+
+This game works with the user entering their text file as a sysarg. The text processing statistics and information will print and then the guessing game will begin. The guessing game essentially takes in user input each turn and sees if the letter is in the word and if it is not it will subtract from the score, but if the letter is in the word a point will be added to the score. If the score drops below zero, the game is over. 
+
+# WordNet 
+Link: https://github.com/alarikav/4395/blob/main/wordnet/axv180035-wordnet.ipynb.pdf
