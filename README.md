@@ -27,3 +27,6 @@ This game works with the user entering their text file as a sysarg. The text pro
 
 # WordNet 
 Link: https://github.com/alarikav/4395/blob/main/wordnet/axv180035-wordnet.ipynb.pdf
+
+#Ngrams 
+Link to all components: https://github.com/alarikav/4395/tree/main/ngrams
