@@ -37,3 +37,6 @@ Link to document: https://github.com/alarikav/4395/blob/main/ngrams/ngrams%20-%2
 # Web Crawler: 
 Link to code: https://github.com/alarikav/4395/blob/main/web%20crawler/main.py
 Link to document: https://github.com/alarikav/4395/blob/main/web%20crawler/Web%20Crawler.pdf
+
+# Syntax Parsing 
+Link to document: https://github.com/alarikav/4395/blob/main/sentence%20parsing.pdf
