@@ -40,3 +40,9 @@ Link to document: https://github.com/alarikav/4395/blob/main/web%20crawler/Web%2
 
 # Syntax Parsing 
 Link to document: https://github.com/alarikav/4395/blob/main/sentence%20parsing.pdf
+
+# Author Attribution 
+Link to document: https://github.com/alarikav/4395/blob/main/author%20attribution/author_attribution.pdf
+
+# Chatbot Application 
+Link to code: https://github.com/MichaelMenjivar890/CS4395_Chatbot
