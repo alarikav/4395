@@ -29,4 +29,14 @@ This game works with the user entering their text file as a sysarg. The text pro
 Link: https://github.com/alarikav/4395/blob/main/wordnet/axv180035-wordnet.ipynb.pdf
 
 # N-grams 
-Link to all components: https://github.com/alarikav/4395/tree/main/ngrams
+Link to code:
+  program 1: https://github.com/alarikav/4395/blob/main/ngrams/program1.py
+  program 2: https://github.com/alarikav/4395/blob/main/ngrams/program2.py
+Link to document: https://github.com/alarikav/4395/blob/main/ngrams/ngrams%20-%20narrative.pdf
+
+# Web Crawler: 
+Link to code: https://github.com/alarikav/4395/blob/main/web%20crawler/main.py
+Link to document: https://github.com/alarikav/4395/blob/main/web%20crawler/Web%20Crawler.pdf
+
+# Syntax Parsing 
+Link to document: https://github.com/alarikav/4395/blob/main/sentence%20parsing.pdf
